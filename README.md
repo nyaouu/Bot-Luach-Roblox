@@ -2,7 +2,7 @@
 
 simple bot roblox launch account made by nyaouu#2917
 
-* have fun with my code *
+have fun with my code :)
 
 # Installation
 ```python
