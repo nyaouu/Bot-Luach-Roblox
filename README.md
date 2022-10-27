@@ -16,3 +16,22 @@ pip install requests
 3. run bot
 4. type "!setup" in discord
 ```
+
+# config.json
+```
+{
+    "token": "token bot",
+    "rbx-host": "localhost",
+    "rbx-port": "7963",
+    "rbx-webpass": "web password rbx",
+    "time-out": 30
+}
+```
+
+# account.txt
+```
+ant
+bird
+nyaouu
+username in roblox
+```
